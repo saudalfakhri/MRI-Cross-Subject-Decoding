@@ -87,8 +87,10 @@ python full_pipeline.py
 ```
 ## Results
 
-![Cross-subject matrix](results/plot_cross_subject_matrix.png)
+![Cross-subject decoding matrix](results/plot_cross_subject_matrix.png)
 ![ROI accuracy](results/plot_roi_accuracy.png)
+![Category variability](results/plot_category_variability.png)
+![Within vs cross subject](results/plot_within_vs_cross.png)
 
 Plots are saved automatically to the `results/` folder. Runtime is approximately 5–10 minutes on a standard CPU.
 
