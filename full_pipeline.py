@@ -416,7 +416,7 @@ ax.legend(fontsize=9, framealpha=0.3, facecolor='#1A1D27',
 ax.grid(True, axis='y', alpha=0.3)
 
 plt.tight_layout()
-plt.savefig(RESULTS_DIR /'/plot_roi_accuracy.png',
+plt.savefig(RESULTS_DIR /'plot_roi_accuracy.png',
             dpi=150, bbox_inches='tight', facecolor='#0F1117')
 plt.close()
 print("  ✓ plot_roi_accuracy.png")
