@@ -123,4 +123,4 @@ GOD_Brain_Decoding/
 
 ## Author
 
-Saud Alfakhri — M.Eng. Biomedical Engineering, Cornell University
+Saud Alfakhri — M.Eng. Biomedical Engineering, Cornell University | B.S. Biomedical Engineering, Boston University
