@@ -67,7 +67,7 @@ Or from the Kamitani Lab: [kamitani-lab.ist.i.kyoto-u.ac.jp/data.html](http://ka
 ## Setup
 
 ```bash
-git clone https://github.com/saudalfakhri/GOD_Brain_Decoding
+git clone https://github.com/saudalfakhri/MRI-Cross-Subject-Decoding
 cd GOD_Brain_Decoding
 pip install -r requirements.txt
 ```
@@ -85,6 +85,10 @@ RESULTS_DIR = Path('results')
 ```bash
 python full_pipeline.py
 ```
+## Results
+
+![Cross-subject matrix](results/plot_cross_subject_matrix.png)
+![ROI accuracy](results/plot_roi_accuracy.png)
 
 Plots are saved automatically to the `results/` folder. Runtime is approximately 5–10 minutes on a standard CPU.
 
