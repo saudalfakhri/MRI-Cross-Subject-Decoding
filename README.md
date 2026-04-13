@@ -62,7 +62,7 @@ Stage 4: Category-level variability
 
 Download: [figshare.com/articles/dataset/Generic_Object_Decoding/7387130](https://figshare.com/articles/dataset/Generic_Object_Decoding/7387130)
 
-Or from the Kamitani Lab: [kamitani-lab.ist.i.kyoto-u.ac.jp/data.html](http://kamitani-lab.ist.i.kyoto-u.ac.jp/data.html)
+Or from the Kamitani Lab: [kamitanilab.github.io/OpenData](https://kamitanilab.github.io/OpenData/)
 
 ## Setup
 
